@@ -1,1 +1,0 @@
-python pixiv_novel_saver.py --batch

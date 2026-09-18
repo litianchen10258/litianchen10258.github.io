@@ -1,1 +1,0 @@
-python pixiv_manga_saver.py --batch
